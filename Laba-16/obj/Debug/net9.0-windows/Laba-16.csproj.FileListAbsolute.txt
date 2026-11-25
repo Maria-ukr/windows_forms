@@ -1,0 +1,17 @@
+D:\Programming .net\Laba-16\Laba-16\bin\Debug\net9.0-windows\Laba-16.exe
+D:\Programming .net\Laba-16\Laba-16\bin\Debug\net9.0-windows\Laba-16.deps.json
+D:\Programming .net\Laba-16\Laba-16\bin\Debug\net9.0-windows\Laba-16.runtimeconfig.json
+D:\Programming .net\Laba-16\Laba-16\bin\Debug\net9.0-windows\Laba-16.dll
+D:\Programming .net\Laba-16\Laba-16\bin\Debug\net9.0-windows\Laba-16.pdb
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba_16.Form1.resources
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba_16.Properties.Resources.resources
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.csproj.GenerateResource.cache
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.AssemblyInfoInputs.cache
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.AssemblyInfo.cs
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.csproj.CoreCompileInputs.cache
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.dll
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\refint\Laba-16.dll
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.pdb
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\Laba-16.genruntimeconfig.cache
+D:\Programming .net\Laba-16\Laba-16\obj\Debug\net9.0-windows\ref\Laba-16.dll
